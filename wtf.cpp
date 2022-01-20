@@ -24,6 +24,7 @@ int main(){
     cout<<"\nyour circle area for " << name1 << " is : "<<area<<endl;
     cout<<"\nyour circle area rounded up is : "<<floor(area);
     cout<<endl;
+    cout << "Lapar" << endl;
 
     
     return 0;
